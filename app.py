@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return 'DSC SRM Certificates Portal TOBE!'
+    return 'DSC SRM Certificates Portal TO_BE!'
 
 
 if __name__ == '__main__':
